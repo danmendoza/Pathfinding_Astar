@@ -1,0 +1,7 @@
+Demo Pathfinding + Multi agent flocking
+
+Pathfinding 
+- A* (00:05)
+- A* Weighted (01:15)
+
+https://www.youtube.com/watch?v=BC29ODrQTBU
